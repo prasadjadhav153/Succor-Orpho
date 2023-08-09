@@ -27,6 +27,6 @@ Succor Orpho's impact extends across regions in need. Through the establishment 
 
 Join us in our mission to improve the lives of orphaned children. Your support can make a significant difference. By contributing to our cause, you play an essential role in creating a better future for these children.
 
-To learn more about Succor Orpho and how you can contribute, please [connect with us](mailto:contact@succororpho.org). Together, we can create lasting positive change for orphaned and abandoned children.
+To learn more about Succor Orpho and how you can contribute, please connect with us Together, we can create lasting positive change for orphaned and abandoned children.
 
 Your support matters. Donate today and be a part of their journey towards a brighter tomorrow.
