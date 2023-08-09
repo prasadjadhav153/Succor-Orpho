@@ -1,4 +1,4 @@
- # Succor Orpho - Empowering Lives of Orphaned Children
+![WhatsApp Image 2023-08-09 at 22 00 19](https://github.com/prasadjadhav153/Succor-Orpho/assets/98076668/3cae0c10-42b7-42f1-baee-7e70946c744f) # Succor Orpho - Empowering Lives of Orphaned Children
 
 Succor Orpho is a dedicated non-profit charity organization based in India, committed to advocating for and transforming the lives of orphaned children. Our mission is centered around providing comprehensive care, education, health and wellness support, foster homes, shelter services, and facilitating the adoption process for vulnerable children.
 
@@ -20,6 +20,8 @@ At Succor Orpho, we are driven by a singular and profound goal: to enhance the l
   
 ## Screenshots:
 <img src="https://C:\Users\asus\Desktop\ss\WhatsApp Image 2023-08-09 at 22.00.19.jpg">
+![Orphaned Kids](https://example.com/images/WhatsApp Image 2023-08-09 at 22.00.19.jpg)
+
 
 ## Our Reach
 
