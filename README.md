@@ -19,7 +19,7 @@ At Succor Orpho, we are driven by a singular and profound goal: to enhance the l
 - **Adoption Facilitation:** We work diligently to facilitate the adoption process, connecting children with families who can provide them with a loving and nurturing home.
   
 ## Screenshots:
-![](a.png) ![](2.png) ![](3.png) ![](4.png) 
+<img src="a.png" width="240" height="450"> 
 
 ## Our Reach
 
